@@ -129,5 +129,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-**Jeevan**
-GitHub: [@Jeevan-can-code](https://github.com/Jeevan-can-code)
+**Sagar S P**
+GitHub: [@sagarpadadali244-cpu](https://github.com/sagarpadadali244-cpu)
